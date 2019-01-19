@@ -1,0 +1,16 @@
+{
+  "name": "restFulNodeJs",
+  "version": "1.0.0",
+  "description": "Free example of a node.js RestFul API, built by Mutasem Elayyoub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.3.1"
+  }
+}
